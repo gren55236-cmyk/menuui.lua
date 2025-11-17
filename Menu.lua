@@ -78,7 +78,7 @@ function Menu:Init()
     titleFont = LoadFont("fonts/Roboto-Bold.ttf", 16)
     
     -- Load header image
-    self.headerTexture = LoadTexture("p header.jpg")
+    self.headerTexture = LoadTexture("https://github.com/gren55236-cmyk/psycho/blob/main/p%20header.jpg")
 end
 
 -- Add event to log
